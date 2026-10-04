@@ -17,3 +17,10 @@ The sum of 5 and 3 is 8.
 * Calculation: -6 + 9 = 3
 
 The sum of -6 and 9 is 3.
+## Example 3
+
+* First integer: -5
+* Second integer: -7
+* Calculation: -5 + (-7) = -12
+
+The sum of -5 and -7 is -12.
